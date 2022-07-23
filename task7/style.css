@@ -1,0 +1,24 @@
+.soft1{
+    background-color: black;
+    display:block;
+}
+.main{
+    background-color: yellowgreen;
+    text-align: center;
+    color: rgb(214, 240, 163);
+    height: 240px;
+    padding: 40px;
+}
+.main-1{
+    text-align: center;
+}
+
+.pradeep
+{
+    margin: 0% 5% 0% 5%;
+    box-shadow: 5px 5px 5px 5px rgb(223, 221, 221);
+    height: 1000px;
+}
+.cart-title{
+    color: cyan;
+}

@@ -1,0 +1,11 @@
+.flex-container{
+    display: flex;
+    background-color: black;
+    width:1000px;
+}
+.flex-item{
+    border: 50px;
+    padding:30px;
+    background-color: red;
+    margin: 20px;
+}
