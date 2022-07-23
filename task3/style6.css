@@ -1,0 +1,9 @@
+.demo1{ 
+    background-image:url("./image/index.jpg");
+    height: 500px;
+    width: 600px;
+    background-attachment: no-repeat;
+    color: blue;}
+.demo2{
+    background-image:url("./image/images.jpg");
+}
